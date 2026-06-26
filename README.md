@@ -51,12 +51,6 @@ The dashboard includes:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard](Dashboard.png)
-
----
-
 ## 🎥 Dashboard Demo
 
 Watch the dashboard demo here:
