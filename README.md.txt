@@ -37,8 +37,7 @@ The original dataset is not included in this repository due to its large size.
 
 ## 🎥 Dashboard Demo
 
-📹 **Google Drive Video:** https://drive.google.com/file/d/1ygEZVpgRCGK9_WrQO5qpoS3fpKpwWGzm/view?usp=drive_link
-
+📹 **Google Drive Video:** https://drive.google.com/file/d/1X1me-okPq74qqxc_JpmoXXptkq6sdKEX/view?usp=sharing
 ## 👤 Author
 
 Anmol
